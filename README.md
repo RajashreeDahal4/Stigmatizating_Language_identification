@@ -29,7 +29,7 @@ Each output file is a list of:
 ```json
 [
   {
-    "bias_type": "Explicit Bias",
+    "bias_type": "Stigmatizing Language",
     "quote": "non-compliant with medications",
     "chunk_paragraph": "...",
     "quote_start_pos_in_chunk": 42,
